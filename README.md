@@ -1,3 +1,4 @@
+![logo](https://github.com/Riky-Testnet/Riky-Testnet/blob/main/Portofolio.jpg)
 <h1 align="center">Hi 👋, I'm RikyArif</h1>
 <h3 align="center">I have been a beta tester for about 2 years and have provided input on various projects that I have tested.</h3>
 
