@@ -1,6 +1,6 @@
 ![logo](https://github.com/Riky-Testnet/Riky-Testnet/blob/main/Portofolio.jpg)
 <h1 align="center">Hi 👋, I'm RikyArif</h1>
-<h3 align="center">I have been a beta tester for about 2 years and have provided input on various projects that I have tested.</h3>
+<h3 align="center">I have been a beta tester for about 3 years and have provided input on various projects that I have tested.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
